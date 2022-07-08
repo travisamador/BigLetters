@@ -481,30 +481,30 @@ static void WriteBig(string word)
         {23,"RRRRRRRRR            RRRRRRRRR" }
     });
     bigLetters.Add('S', new Dictionary<int, string>()
-    {
-        {1, "    OOOOOOOOOOOOOOOOOOOOOO    " },
-        {2, "   OOOOOOOOOOOOOOOOOOOOOOOO   " },
-        {3, "  OOOOOOOOOOOOOOOOOOOOOOOOOO  " },
-        {4, " OOOOOOOOOOOOOOOOOOOOOOOOOOOO " },
-        {5, "OOOOOOOOO            OOOOOOOOO" },
-        {6, "OOOOOOOOO             OOOOOOOO" },
-        {7, "OOOOOOOOO              OOOOOOO" },
-        {8, "OOOOOOOOO                     " },
-        {9, "OOOOOOOOO                     " },
-        {10,"OOOOOOOOO                     " },
-        {11,"OOOOOOOOOOOOOOOOOOOOOOOOOOOO  " },
-        {12," OOOOOOOOOOOOOOOOOOOOOOOOOOOO " },
-        {13,"  OOOOOOOOOOOOOOOOOOOOOOOOOOOO" },
-        {14,"                     OOOOOOOOO" },
-        {15,"                     OOOOOOOOO" },
-        {16,"                     OOOOOOOOO" },
-        {17,"OOOOOOO              OOOOOOOOO" },
-        {18,"OOOOOOOO             OOOOOOOOO" },
-        {19,"OOOOOOOOO            OOOOOOOOO" },
-        {20," OOOOOOOOOOOOOOOOOOOOOOOOOOOO " },
-        {21,"  OOOOOOOOOOOOOOOOOOOOOOOOOO  " },
-        {22,"   OOOOOOOOOOOOOOOOOOOOOOOO   " },
-        {23,"    OOOOOOOOOOOOOOOOOOOOOO    " }
+{
+        {1, "    SSSSSSSSSSSSSSSSSSSSSS    " },
+        {2, "   SSSSSSSSSSSSSSSSSSSSSSSS   " },
+        {3, "  SSSSSSSSSSSSSSSSSSSSSSSSSS  " },
+        {4, " SSSSSSSSSSSSSSSSSSSSSSSSSSSS " },
+        {5, "SSSSSSSSS            SSSSSSSSS" },
+        {6, "SSSSSSSSS             SSSSSSSS" },
+        {7, "SSSSSSSSS              SSSSSSS" },
+        {8, "SSSSSSSSS                     " },
+        {9, "SSSSSSSSS                     " },
+        {10,"SSSSSSSSS                     " },
+        {11,"SSSSSSSSSSSSSSSSSSSSSSSSSSSS  " },
+        {12," SSSSSSSSSSSSSSSSSSSSSSSSSSSS " },
+        {13,"  SSSSSSSSSSSSSSSSSSSSSSSSSSSS" },
+        {14,"                     SSSSSSSSS" },
+        {15,"                     SSSSSSSSS" },
+        {16,"                     SSSSSSSSS" },
+        {17,"SSSSSSS              SSSSSSSSS" },
+        {18,"SSSSSSSS             SSSSSSSSS" },
+        {19,"SSSSSSSSS            SSSSSSSSS" },
+        {20," SSSSSSSSSSSSSSSSSSSSSSSSSSSS " },
+        {21,"  SSSSSSSSSSSSSSSSSSSSSSSSSS  " },
+        {22,"   SSSSSSSSSSSSSSSSSSSSSSSS   " },
+        {23,"    SSSSSSSSSSSSSSSSSSSSSS    " }
     });
     bigLetters.Add('T', new Dictionary<int, string>()
     {
